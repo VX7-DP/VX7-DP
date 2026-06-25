@@ -22,7 +22,7 @@ Backend-leaning software engineer. Strongest in **C#/.NET**, comfortable in **C+
 - Real-time updates with **SignalR over a Redis Pub/Sub backplane**
 - **OpenTelemetry** tracing, load-tested with **NBomber**, integration-tested with **Testcontainers**
   
-**[DSA-Solutions](https://github.com/VX7-DP/DSA-Solutions)** — a topic-organized repo of solved problems (arrays, graphs, DP, etc.) from Codeforces, CSES, and LeetCode, each with the problem link, approach, and complexity notes.
+**[DSA-Solutions](https://github.com/VX7-DP/DSA-Solutions)** — a topic-organized repo of solved problems (arrays, graphs, DP, etc.) from Codeforces, CSES, and LeetCode, each with the problem approach and solutions.
  
 ---
  
